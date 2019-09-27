@@ -1,0 +1,20 @@
+{
+  "name": "tempo-acc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"It Works\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tempo-acc/tempo-acc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tempo-acc/tempo-acc/issues"
+  },
+  "homepage": "https://github.com/tempo-acc/tempo-acc#readme"
+}
